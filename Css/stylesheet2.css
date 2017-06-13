@@ -1,0 +1,542 @@
+.Main-div
+{overflow: hidden;
+	
+background-color:#7dd9e8;
+}.margi
+{width: 1002px;
+	margin: auto 130px;
+	
+}
+.headerpart
+{width: 100%;
+
+	display: block;
+	
+	
+	overflow: hidden;
+}.paddi
+{
+	margin-left: 33px;
+	margin-right: 31px;
+}
+.header-subpart
+{overflow: hidden;background-color:#7dd9e8;
+	margin: 15px 31px 13px 33px;
+
+}
+.tutangle-logo
+{
+	height: 100%;
+	
+	float: left;
+	display: block;
+}
+.searchpart
+{margin-left: 15px;
+	height: 100%;
+	
+	float: left;
+	display: block;
+}
+.searchpart input
+{font-size: 12px;
+	position: relative;
+	margin-top: 19px;
+	width: 260px;
+	border-radius: 5px;
+	background-color: #caeff7;
+}
+.searchpart button
+{ position: absolute;
+	top: 23px;
+	left:668px;
+	border-radius: 3px;
+	padding: 5px auto;
+ width: 16px;
+	height: 19px;
+	background-image: url('../images/searchico.png');
+	margin-top: 12px;
+	margin-left: 0.5px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 12px 12px;
+	
+}
+.search-image
+{
+	
+	height: 100%;
+	
+	float: left;
+	display: block;
+}
+.search-image img
+{
+	height: 19px;
+	margin-left: 30px;
+	margin-top: 19px;
+}
+.navbar
+{
+
+padding-top: 3px;	
+height: 100%;
+	
+	float: right;
+	display: block;
+}
+.navbar .joe 
+{
+
+
+display: block;
+}
+.navbar .joe p
+{margin-bottom:5px;
+	margin-left: 118px;
+}
+.nav-br
+{margin-left: 20px;
+	display: block;
+	
+}
+.nav-br nav a
+{line-height: 100%;
+
+	padding-right: 10px;
+	font-size: 14px;
+	border-right: 2px solid black;
+	text-decoration: none;text-align: center;
+}
+.nav-br nav a.last
+{
+	border:none;
+	text-align: right;
+}
+/*End of header part*/
+
+.main-nav 
+{ 
+
+	overflow: hidden;
+background-color: #f5f5f5;
+}
+.nav-nav
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.nav-nav nav a 
+{
+	font-size: 14px;
+	text-align: left;
+	text-decoration: none;
+	padding-right: 10px;
+}
+.nav-nav nav
+{
+	margin-top: 8px;
+} 
+.nav-right-part
+{
+	margin:-23px 0 15px 0;
+	background-color: #f5f5f5;
+	
+	float: right;
+}
+.nav-right-part-left
+{
+	float: left;
+
+} 
+.nav-right-part-left .imgtopic 
+{
+	float: left;
+}
+.nav-right-part-left .topic
+{font-size: 14px;
+float: right;
+} 
+.nav-right-part-right
+{
+	margin-left: 15px;
+	float: right;
+}
+
+.nav-right-part-right .imgfriend
+{
+	float: left;
+}
+.nav-right-part-right .friend
+{font-size: 14px;
+	float: right;
+}
+/*End of Nav bar part*/
+.content
+{
+	height: 100%;
+
+margin-top: 15px;
+	
+}
+.foreheightleft
+{
+	
+	height: 100%;
+
+}
+.forheightmain
+{
+	overflow: auto;height: 100%;
+	
+}
+.forheight
+{display: block;
+	overflow: auto;
+
+	height: 100%;
+}
+.Main-content-left 
+{height: 550.5px;
+	
+	width: 24%;
+	float: left;
+	background-color: #f5f5f5;
+}
+.Main-content-middle
+{margin-left: 1%;
+	width: 50%;
+	height: 100%;
+	
+	float: left;
+	background-color: white;
+}
+.Main-content-right
+{ margin-left: 1%;
+	height: 550.5px;
+
+	width: 24%;
+	float: right;
+	
+}
+.header-entries
+{margin-bottom:8px;
+	
+	
+}
+.header-entries h1
+{font-weight: bold;
+	font-size: 20px;
+	line-height: 100%;
+}
+
+.entries-collection
+{overflow: hidden;
+	border-bottom: 2px solid #7dd9e8;
+	height: 55px;
+
+border-top-left-radius: 8px;
+border-top-right-radius: 8px;
+
+	background-color: #f5f5f5;
+}
+.allentries
+{
+	
+	background-color: #f5f5f5;
+	float: left;
+	width: 49.5%;
+}
+.subscribed
+{background-color: #f5f5f5;
+	float: right;
+	margin-left: 1%;
+	width: 49.5%;
+}
+.entries-collection button
+{font-size: 12px;
+	text-align: center;
+
+}
+.header-allentries h3 
+{
+	padding-top: 10px;
+}
+.header-allentries h3
+{font-size: 14px;
+	
+	margin-left: 40%;
+}
+.button-colllection button:first-child
+{
+	background-color: #7dd9e8;
+}
+.button-colllection button
+{
+	margin-top: 5px;
+	border-top-left-radius: 30%;
+	border-top-right-radius: 30%;
+	width: 46%;
+	height: 30px;
+	margin-left: 1%;
+	margin-right: 1%;
+}
+.header-subscribed h3
+{padding-top: 10px;
+	font-size: 14px;
+	
+	margin-left: 40%;
+}
+ button.btnent
+{border-top-left-radius: 30%;
+	border-top-right-radius: 30%;
+	width: 42%;
+	margin-top: 5px;
+	height: 30px;
+	margin-left: 1%;
+	margin-right: 1%;
+
+}
+button.commet
+{width: 50%;margin-left: 1%;
+	height: 30px;
+	margin-top: 5px;
+	margin-right: 1%;border-top-left-radius: 30%;
+	border-top-right-radius: 30%;
+	}
+
+.maincontentpaddi
+{
+	margin-left: 5px;
+}
+.firstsearch h3
+{background-color:#7dd9e8;
+	
+	height: 39px;
+	padding-top: 15px;
+	padding-left: 10px;
+	font-size: 20px;
+}
+
+.firstsearch-list ul
+{
+	padding-left: 10px;
+}
+.secondsearch h3
+{
+	background-color:#7dd9e8;
+	
+	height: 39px;
+	padding-top: 15px;
+	padding-left: 10px;
+	font-size: 20px;
+}
+.secondsearch-list ul
+{font-size: 14px;
+	padding-left: 10px;
+}
+.list-nick
+{ display: block;
+
+overflow: auto;
+	background-color:#f5f5f5;
+	font-size: 12px;
+	
+
+}
+.list-nick-left 
+{background-color: #f5f5f5;
+	float: left;
+	width: 70%;
+	padding-top: 5px;
+}
+.list-nick-right
+{background-color: #f5f5f5;
+	float: right;
+	width: 30%;
+}
+.list-nick-right img
+{margin-top: 14px;
+	margin-left: 50px;
+
+}
+.african
+{margin-top: 9px;
+	display: block;
+
+overflow: auto;
+	
+	font-size: 12px;
+
+}
+.african-left 
+{background-color: #f5f5f5;
+	float: left;
+	width: 70%;
+}
+.african-right
+{background-color: #f5f5f5;
+	float: right;
+	width: 30%;
+	
+}
+.african-right img
+{
+	margin-top: 14px;
+	margin-left: 50px;
+}
+.secondsearch-list ul li
+{list-style-type: none;
+}
+.Main-content-right 
+{background-color: #f5f5f5;
+	
+	font-size: 14px;
+}
+.videorapers
+{
+	background-color: #7dd9e8;
+}
+.Main-content-right h3
+{padding-top: 15px;
+	padding-bottom: 5px;
+	height: 39px;
+	background-color:#7dd9e8;
+	margin-left: 10px;
+	font-size: 18px;
+
+}
+.Main-content-right h3 p
+{
+	margin-top: 5px;
+}
+.Main-content-right ul
+{
+
+	margin-left: 10px;
+}
+.Main-content-right ul li
+{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+.forleft
+{
+	background-color: #f5f5f5;
+	float: left;width: 70%;
+}
+.forleft p
+{
+	margin-top: 3px;
+}
+.forright
+{
+	background-color:#f5f5f5;
+	float: right;width: 30%;
+}
+.dondifferent{
+font-size: 12px;
+	overflow: hidden;
+	display: block;
+}
+.donmargin
+{clear: both;
+height: 20px;
+line-height: 20px;
+	display: block;
+overflow: hidden;
+margin-top: 10px;
+font-size: 12px;
+}
+.differentimage img
+{margin-top: 25px;
+	margin-left: 45px;
+
+}
+.divblock
+{font-size:10px; 
+	display: block;
+	overflow: auto;
+	clear: both;
+
+}
+
+.marginimage img
+{
+margin-left: 45px;
+}
+.entriesleft
+{
+float: left;
+width: 16%;
+background-color: white;
+}
+.entriesright
+{background-color: white;
+	float: right;
+	width: 84%;
+}
+
+.firstpofalan
+{font-size: 11px;
+
+	font-weight: bold;
+}
+ .paddingentries  p
+{
+	margin-top: 5px;
+}
+.bllue
+{
+	color: blue;
+}
+.grren
+{
+	color: green;
+}
+.rred
+{
+	color: red;
+}
+.forentriespadding
+{
+	overflow: auto;
+}
+.forentriespadding >div
+{
+	margin-top: 10px;
+}
+/*End of Content part*/
+.footer
+{
+	font-size:12px;
+	color: white;
+background-color: #727272;
+	overflow: hidden;
+}
+.footer-left 
+{
+
+	padding-top: 5px;
+	float: left;
+}
+.footer-left nav a
+{
+	color: white;
+	text-decoration: none;
+}
+.footer-left nav a:hover
+{
+	color: red;
+}
+.footer-right
+{
+	padding-top: 5px;
+	float: right;
+}
+.padforfooter
+{overflow: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}

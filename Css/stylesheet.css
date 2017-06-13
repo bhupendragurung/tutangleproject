@@ -1,0 +1,53 @@
+.Main-div 
+{
+  margin:auto 120px;
+}
+.Header-part
+{
+  margin-left: 33px;
+  margin-top: 21px;
+  margin-right: 31px;
+  margin-bottom: 16px;
+}
+.header-left 
+
+{float: left;
+  width: 76.1407249%;
+  background-color: yellow;
+}
+.header-right
+{float: right;
+  height: 100%;
+  width: 23.8592751%;
+  background-color: red;
+}
+.header-left-left 
+{width:27.4752475%;
+  float: left;
+}
+.header-left-right
+{ width:72.5247525%;
+  float: right;
+}
+.header-left-left img
+{
+
+height: 49px;
+}
+.header-left-right input
+{height: 20px;
+width: 31.4356436%;
+margin-left: 2.970297%;
+}
+.header-left-right img
+{
+  margin-left: 0.1237624%;
+height: 20px;
+width: 2.5990099%;
+}
+.header-left-right button
+{height: 20px;
+  margin-left: 0.8663366%;
+  margin-right: 28.8366337%;
+width: 6.5594059%;
+}
